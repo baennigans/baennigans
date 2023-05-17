@@ -1,4 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20GH's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&height=200)
+
 ### Hi there 👋
+
+
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baennigans&show_icons=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baennigans&layout=donut">
+</p>
 
 <!--
 **baennigans/baennigans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
