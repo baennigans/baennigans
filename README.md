@@ -41,9 +41,10 @@
 	<br>
 </div>
 
-<br>
-![baennigans's github stats](https://github-readme-stats.vercel.app/api?username=baennigans&show_icons=true)
-
+<p align=center>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baennigans&show_icons=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baennigans&layout=donut">
+</p>
 
 <!--
 **baennigans/baennigans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
