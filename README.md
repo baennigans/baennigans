@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Gunhee's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&height=200)
 
 
-<h3 align=center>안녕하세요 배건희입니다.😀</h3>
+<h3 align=center>
+	안녕하세요 배건희입니다.😀
+</h3>
 <br><br><br>
+
 
 
 <div align=center>
@@ -38,6 +41,7 @@
 	<a href="https://powerful-tilapia-138.notion.site/fc1a2a1e125742cda202f02b2d914059">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
+	
 	<br>
 </div>
 
@@ -46,9 +50,26 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baennigans&layout=donut">
 </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bgh2584)](https://solved.ac/bgh2584/)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaennigans&count_bg=%233D81C8&title_bg=%23555555&icon=instacart.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **baennigans/baennigans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
