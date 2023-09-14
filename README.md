@@ -48,9 +48,11 @@
 <br><br>
 
 
-<!-- Stats / Backjoon -->
+<!-- Stats / Backjoon / Most use -->
 <p align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baennigans&show_icons=true&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baennigans&hide_progress=true">
+	<br>
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bgh2584">
 </p>
 <br><br><br>
@@ -60,13 +62,6 @@
 <p align=right>
   <img height="20em" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaennigans&count_bg=%233D81C8&title_bg=%23555555&icon=instacart.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">
 </p>
-
-
-<!-- Most use
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baennigans&layout=donut">
--->
-
-
 
 
 
