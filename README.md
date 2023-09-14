@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Gunhee's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&height=200)
 
 
+<!-- Introduce -->
 <h3 align=center>
 	안녕하세요 배건희입니다.😀
 </h3>
-<br><br><br>
+<br><br>
 
 
-
+<!-- Platforms & Languages -->
 <div align=center>
   <p>✨ Platforms & Languages ✨</p>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -20,9 +21,10 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<br>
 </div>
-
 <br>
 
+
+<!-- Tools -->
 <div align=center>
   <p>🛠 Tools 🛠</p>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -30,9 +32,10 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-
 <br>
 
+
+<!-- Mail & Portfolio -->
 <div align=center>
   <p>🎨 Mail & Portfolio 🎨</p>
 	<a href="mailto:bgh2584@gmail.com">
@@ -41,28 +44,27 @@
 	<a href="https://powerful-tilapia-138.notion.site/fc1a2a1e125742cda202f02b2d914059">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
-	
-	<br>
 </div>
+<br><br>
 
+
+<!-- Stats / Backjoon -->
 <p align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baennigans&show_icons=true&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baennigans&layout=donut">
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bgh2584">
+</p>
+<br><br><br>
+
+
+<!-- Hits -->
+<p align=right>
+  <img height="20em" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaennigans&count_bg=%233D81C8&title_bg=%23555555&icon=instacart.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false">
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bgh2584)](https://solved.ac/bgh2584/)
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaennigans&count_bg=%233D81C8&title_bg=%23555555&icon=instacart.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
-
-
-
-
-
-
+<!-- Most use
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baennigans&layout=donut">
+-->
 
 
 
